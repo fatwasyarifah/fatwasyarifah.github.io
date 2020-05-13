@@ -97,6 +97,9 @@ header {
 
 .header-left {
   float: left;
+}
+
+.header-left h1 {
   color : white;
 }
 
